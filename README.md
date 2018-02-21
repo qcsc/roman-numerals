@@ -256,4 +256,7 @@ OK (41 tests, 41 assertions)
 ```
 $ echo 'vendor' > .gitignore
 $ git add . 
+$ git commit -m 'Roman Numerals application.'
+$ git remote add origin https://github.com/qcsc/roman-numerals.git
+$ git push -u origin master
 ```
