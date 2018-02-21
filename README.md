@@ -258,5 +258,6 @@ $ echo 'vendor' > .gitignore
 $ git add . 
 $ git commit -m 'Roman Numerals application.'
 $ git remote add origin https://github.com/qcsc/roman-numerals.git
+$ git commit -am 'Finished README.md.'
 $ git push -u origin master
 ```
